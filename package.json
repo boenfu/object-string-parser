@@ -1,0 +1,12 @@
+{
+  "name": "object-string-parser",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "git@github.com:boenfu/object-string-parser.git",
+  "author": "boenfu <1997@boenfu.cn>",
+  "keywords": [
+    "joke"
+  ],
+  "license": "MIT"
+}
